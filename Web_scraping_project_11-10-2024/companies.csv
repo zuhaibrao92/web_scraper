@@ -1,0 +1,11 @@
+,Rank,Name,Industry,Revenue,Profit,Employees,Headquarters[note 1],State-owned
+0,Walmart,Retail,"$648,125","$15,511","2,100,000",United States,,[1]
+1,Amazon,Retail,"$574,785","$30,425","1,525,000",United States,,[4]
+2,State Grid Corporation of China,Electricity,"$545,948","$9,204","1,361,423",China,,[5]
+3,Saudi Aramco,Oil and gas,"$494,890","$129,699","73,311",Saudi Arabia,,[6]
+4,China Petrochemical Corporation,Oil and gas,"$429,700","$9,393","513,434",China,,[7]
+5,China National Petroleum Corporation,Oil and gas,"$421,714","$21,294","1,026,301",China,,[8]
+6,Vitol,Commodities,"$400,000","$13,000","1,560",Switzerland,,[9][10]
+7,Apple,Information technology,"$383,482","$96,995","161,000",United States,,[11]
+8,UnitedHealth Group,Healthcare,"$371,622","$22,381","440,000",United States,,[12]
+9,Berkshire Hathaway,Financials,"$364,482","$96,223","396,500",United States,,[13]
